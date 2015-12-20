@@ -19,7 +19,8 @@ defmodule Infinitwit.Mixfile do
 
   defp deps do
     [
-      {:extwitter, "~> 0.5.4"}
+      {:oauth, github: "tim/erlang-oauth"},
+      {:extwitter, "~> 0.5"}
     ]
   end
 end
