@@ -1,6 +1,6 @@
-defmodule InfinitwitTest do
+defmodule SinclairTest do
   use ExUnit.Case
-  doctest Infinitwit
+  doctest Sinclair
 
   test "base functionality" do
     assert 1 = 1

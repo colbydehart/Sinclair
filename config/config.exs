@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure for your application as:
 #
-#     config :infinitwit, key: :value
+#     config :sinclair, key: :value
 #
 # And access this configuration in your application as:
 #
-#     Application.get_env(:infinitwit, :key)
+#     Application.get_env(:sinclair, :key)
 #
 # Or configure a 3rd-party app:
 #
