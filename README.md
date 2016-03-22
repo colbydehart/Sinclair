@@ -1,19 +1,3 @@
 # Sinclair
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add sinclair to your list of dependencies in `mix.exs`:
-
-        def deps do
-          [{:sinclair, "~> 0.0.1"}]
-        end
-
-  2. Ensure sinclair is started before your application:
-
-        def application do
-          [applications: [:sinclair]]
-        end
+A small elixir app that creates randomly genereated text from a twitter feed. Used as a learning exercise for managing streams in elixir
